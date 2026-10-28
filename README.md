@@ -33,7 +33,7 @@
 | Môn học | Phân tích thiết kế hệ thống thông tin (Information Systems Analysis and Design - ISAD) |
 | Học kỳ | HK1, năm học 2026-2027 |
 | Giảng viên | ThS. Phan Nguyệt Minh |
-| Nhóm | Nhóm 49:<br>- Phạm Duy Đăng (Trưởng nhóm) - MSSV: 3124410068<br>- Châu Chí Hải - MSSV: 3124410076<br>- Nguyễn Thành Long - MSSV: 3124410195<br>- Nguyễn Vương Hoàng Tịnh - MSSV: 3124560091<br>- Nguyễn Phúc Thắng - MSSV: 3124410331<br>- Nguyễn Phú Tài - MSSV: 3121410435 |
+| Nhóm | Nhóm 49:<br>1. Phạm Duy Đăng (NT) - MSSV: 3124410068<br>2. Nguyễn Phúc Thắng - MSSV: 3124410331<br>3. Nguyễn Vương Hoàng Tịnh - MSSV: 3124560091<br>4. Nguyễn Thành Long - MSSV: 3124410195<br>5. Nguyễn Phú Tài - MSSV: 3121410435<br>6. Châu Chí Hải - MSSV: 3124410076 |
 
 <a id="gioi-thieu"></a>
 ## 🎯 Giới thiệu
@@ -306,12 +306,12 @@ Mở tệp `docs/BaoCao_QuanLyQuanNet_PTTKHTT.docx` bằng Microsoft Word, Googl
 
 | STT | Họ tên | GitHub | Vai trò |
 |:---:|---|---|---|
-| 1 | Phạm Duy Đăng | [@duyddawngnef](https://github.com/duyddawngnef) | Trưởng nhóm - Phụ trách module Đăng nhập, Quản lý nhân viên và kiến trúc nền tảng |
-| 2 | Châu Chí Hải | [@chihai9-dev](https://github.com/chihai9-dev) | Thành viên - Phụ trách module Sơ đồ máy, Quản lý phiên sử dụng và tính cước |
-| 3 | Nguyễn Thành Long | [@Longcodepro](https://github.com/Longcodepro) | Thành viên - Phụ trách module Quản lý dịch vụ F&B và Gói cước combo |
-| 4 | Nguyễn Vương Hoàng Tịnh | [@ALEXDASID](https://github.com/ALEXDASID) | Thành viên - Phụ trách module Nạp tiền tài khoản, Hóa đơn (PDF) và Khuyến mãi |
-| 5 | Nguyễn Phúc Thắng | [@Thangphuc1](https://github.com/Thangphuc1) | Thành viên - Phụ trách module Quản lý khu máy và danh mục máy tính |
-| 6 | Nguyễn Phú Tài | [@NgPhuTai](https://github.com/NgPhuTai) | Thành viên - Phụ trách module Quản lý nhập hàng, Nhà cung cấp và Thống kê (Excel) |
+| 1 | Phạm Duy Đăng (MSSV: 3124410068) | [@duyddawngnef](https://github.com/duyddawngnef) | Trưởng nhóm (NT) - Phụ trách module Đăng nhập, Quản lý nhân viên và kiến trúc nền tảng |
+| 2 | Nguyễn Phúc Thắng (MSSV: 3124410331) | [@Thangphuc1](https://github.com/Thangphuc1) | Thành viên - Phụ trách module Quản lý khu máy và danh mục máy tính |
+| 3 | Nguyễn Vương Hoàng Tịnh (MSSV: 3124560091) | [@ALEXDASID](https://github.com/ALEXDASID) | Thành viên - Phụ trách module Nạp tiền tài khoản, Hóa đơn (PDF) và Khuyến mãi |
+| 4 | Nguyễn Thành Long (MSSV: 3124410195) | [@Longcodepro](https://github.com/Longcodepro) | Thành viên - Phụ trách module Quản lý dịch vụ F&B và Gói cước combo |
+| 5 | Nguyễn Phú Tài (MSSV: 3121410435) | [@NgPhuTai](https://github.com/NgPhuTai) | Thành viên - Phụ trách module Quản lý nhập hàng, Nhà cung cấp và Thống kê (Excel) |
+| 6 | Châu Chí Hải (MSSV: 3124410076) | [@chihai9-dev](https://github.com/chihai9-dev) | Thành viên - Phụ trách module Sơ đồ máy, Quản lý phiên sử dụng và tính cước |
 
 <a id="tai-lieu-lien-quan"></a>
 ## 📄 Tài liệu liên quan
